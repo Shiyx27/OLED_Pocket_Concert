@@ -42,4 +42,7 @@ Before flashing the code, open your **Arduino IDE**, navigate to the **Library M
 2. **Adafruit GFX Library** (The core graphics engine for drawing shapes and text)
 
 ---
-
+## 💻 Online Sources if u dont have Hardware :
+## https://wokwi.com/projects/467528374050755585
+## https://www.tinkercad.com/things/iR0SCeiSxOJ-pocket-concert-lcd-music-visualizer 
+(The connection with tinkercad might differ as it uses lcd insted of oled)
