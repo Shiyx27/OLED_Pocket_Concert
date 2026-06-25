@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/e2d97b5f-0b22-4e0e-852f-862f90daa4f4
+
 # 🎵 Pocket Concert: OLED Music Visualizer
 
 A cozy, kinetic physical computing project that transforms an **Arduino UNO R4** and an **SSD1306 OLED Display** into a pocket-sized music visualizer. 
